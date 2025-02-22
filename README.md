@@ -47,7 +47,7 @@ Coming Soon
 ## 📂 Repo
 Here are the links
 
-# Offthegridit Public IT Resources
+# offthegridit Public IT Resources
 
 ## Documentation Index
 
