@@ -1,4 +1,6 @@
-<img src="https://offthegridit.com/wp-content/uploads/2023/01/owl-off-the-grid-natures-camaflouge.png" alt="Owl Image" width="42">
+<p align="center">
+  <img src="https://offthegridit.com/wp-content/uploads/2023/01/owl-off-the-grid-natures-camaflouge.png" alt="Owl Image" width="163">
+</p>
 
 # **Senior Tech Tips**
 
