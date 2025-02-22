@@ -90,6 +90,33 @@ We continuously improve this repository based on user feedback and technology ad
 
 After September 2025, updates will be determined based on user engagement and feedback.
 
+
+
+## 🛠 Installation & Usage
+Coming Soon  
+
+## 🎬 Demo Video
+[![Watch the video](https://img.youtube.com/vi/reAXSyYBFM4/maxresdefault.jpg)](https://www.youtube.com/watch?v=reAXSyYBFM4)  
+
+---
+
+## 📂 Repository Structure
+```bash
+/offthegridit-public-it-resources
+│── README.md                 # Main Overview
+│── docs/
+│   ├── windows.md            # Windows-specific guides
+│   ├── mac.md                # macOS-specific guides
+│   ├── linux.md              # Linux-specific guides
+│   ├── it-support.md         # IT Support Basics
+│   ├── cybersecurity.md      # Security Best Practices
+│   ├── automation.md         # Scripts & Automation
+│   ├── smart-home.md         # Home Automation & HA Setup
+│   ├── senior-tech-tips.md   # IT Tips for Seniors
+│   ├── future-tech.md        # Current Trends & Emerging Technologies
+│   ├── troubleshooting.md     # Common IT Issues & Fixes
+```
+
 ---
 
 ## Contributing
