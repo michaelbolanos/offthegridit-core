@@ -61,3 +61,30 @@ Coming Soon
 │   ├── troubleshooting.md    # Common IT Issues & Fixes
 
 
+
+---
+
+## 📄 Detailed Resources
+
+| Resource       | Description                               | File Link                                                                                                                |
+|----------------|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| [Windows](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/windows.md)             | Windows-specific guides                       | [windows.md](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/windows.md)             |
+| [Mac](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/mac.md)                   | macOS-specific guides                         | [mac.md](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/mac.md)                   |
+| [Linux](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/linux.md)                 | Linux-specific guides                         | [linux.md](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/linux.md)                 |
+| [IT Support](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/it-support.md)           | IT Support Basics                             | [it-support.md](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/it-support.md)           |
+| [Cybersecurity](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/cybersecurity.md)        | Security Best Practices                       | [cybersecurity.md](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/cybersecurity.md)        |
+| [Automation](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/automation.md)           | Scripts & Automation                          | [automation.md](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/automation.md)           |
+| [Smart Home](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/smart-home.md)           | Home Automation & HA Setup                    | [smart-home.md](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/smart-home.md)           |
+| [Senior Tech Tips](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/senior-tech-tips.md) | IT Tips for Seniors                           | [senior-tech-tips.md](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/senior-tech-tips.md) |
+| [Future Tech](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/future-tech.md)        | Current Trends & Emerging Technologies        | [future-tech.md](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/future-tech.md)        |
+| [Troubleshooting](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/troubleshooting.md)     | Common IT Issues & Fixes                      | [troubleshooting.md](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/troubleshooting.md)     |
+
+---
+
+## Contributing
+This project is open to contributions! Share scripts, write guides, or suggest improvements to help others learn and grow.
+
+## Stay Connected
+Follow this repository for updates, and feel free to open issues or discussions to ask questions and share ideas!
+
+**Let's make IT accessible, inspiring, and practical for everyone!**
