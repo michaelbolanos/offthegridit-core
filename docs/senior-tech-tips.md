@@ -2,7 +2,7 @@
 
 **Technology Made Simple for Seniors**
 
-![Seniors using technology](https://live.staticflickr.com/65535/33725785688_6dd3d3f3c0_b.jpg)
+![Elderly Tech Adoption](https://cdn.pixabay.com/photo/2024/08/10/08/56/elderly-tech-adoption-8950844_1280.png)
 
 Empower yourself with these easy-to-follow guides:
 
@@ -14,6 +14,8 @@ Empower yourself with these easy-to-follow guides:
 
 ## **1. Managing and Remembering Passwords**
 
+![Elderly Woman Creating Digital Art](https://cdn.pixabay.com/photo/2024/08/09/08/56/ai-generated-woman-tech-8950840_1280.png)
+
 In today's digital world, keeping track of numerous passwords can be challenging. Simplify this task by:
 
 - **Using Password Managers:** Applications like 1Password or Bitwarden securely store all your login details, so you only need to remember one master password.
@@ -21,6 +23,8 @@ In today's digital world, keeping track of numerous passwords can be challenging
 - **Enabling Two-Step Verification:** This adds an extra layer of security by requiring a second form of verification, such as a code sent to your phone.
 
 ## **2. Keeping Track of Appointments and To-Dos**
+
+![Elderly Woman Using Computer](https://cdn.pixabay.com/photo/2024/08/09/08/56/ai-generated-woman-tech-8950846_1280.png)
 
 Stay organized and never miss an important date by:
 
@@ -30,6 +34,8 @@ Stay organized and never miss an important date by:
 
 ## **3. Enhancing Device Accessibility**
 
+![Elderly Woman Using Tablet](https://cdn.pixabay.com/photo/2024/08/09/08/56/ai-generated-woman-tech-8950853_1280.png)
+
 Make your devices more user-friendly by:
 
 - **Adjusting Text Size and Display Settings:** Increase font size and enable high-contrast modes to improve readability.
@@ -37,6 +43,8 @@ Make your devices more user-friendly by:
 - **Exploring Voice Command Features:** Use voice assistants to open apps, send messages, or search the internet without typing.
 
 ## **4. Ensuring Online Safety**
+
+![Elderly Couple Using Technology](https://cdn.pixabay.com/photo/2024/08/09/08/56/ai-generated-couple-tech-8950842_1280.png)
 
 Protect yourself from online threats by:
 
