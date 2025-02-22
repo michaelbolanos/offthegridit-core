@@ -62,8 +62,11 @@ Coming Soon
 
 
 
+
 ---
 
+## 📂 Repository Structure Clickable
+---
 ## 📄 Detailed Resources
 
 | Resource       | Description                               | File Link                                                                                                                |
@@ -78,13 +81,3 @@ Coming Soon
 | [Senior Tech Tips](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/senior-tech-tips.md) | IT Tips for Seniors                           | [senior-tech-tips.md](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/senior-tech-tips.md) |
 | [Future Tech](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/future-tech.md)        | Current Trends & Emerging Technologies        | [future-tech.md](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/future-tech.md)        |
 | [Troubleshooting](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/troubleshooting.md)     | Common IT Issues & Fixes                      | [troubleshooting.md](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/troubleshooting.md)     |
-
----
-
-## Contributing
-This project is open to contributions! Share scripts, write guides, or suggest improvements to help others learn and grow.
-
-## Stay Connected
-Follow this repository for updates, and feel free to open issues or discussions to ask questions and share ideas!
-
-**Let's make IT accessible, inspiring, and practical for everyone!**
