@@ -19,7 +19,7 @@ Welcome to offthegridit's public IT resources. We offer easy-to-understand guide
 
 ## 👵👴 Resources for Seniors
 
-We know technology can be challenging. Our [Senior Tech Tips](#senior-tech-tips) provide simple guides to help you navigate the digital world.
+We know technology can be challenging. Our [Senior Tech Tips](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/senior-tech-tips.md) provide simple guides to help you navigate the digital world.
 
 ---
 
@@ -36,12 +36,11 @@ We know technology can be challenging. Our [Senior Tech Tips](#senior-tech-tips)
 
 ---
 
-
 ## 🛠 Installation & Usage
-Coming Soon  
+Coming Soon
 
 ## 🎬 Demo Video
-[![Watch the video](https://img.youtube.com/vi/reAXSyYBFM4/maxresdefault.jpg)](https://www.youtube.com/watch?v=reAXSyYBFM4)  
+[![Watch the video](https://img.youtube.com/vi/reAXSyYBFM4/maxresdefault.jpg)](https://www.youtube.com/watch?v=reAXSyYBFM4)
 
 ---
 
@@ -59,14 +58,5 @@ Coming Soon
 │   ├── smart-home.md         # Home Automation & HA Setup
 │   ├── senior-tech-tips.md   # IT Tips for Seniors
 │   ├── future-tech.md        # Current Trends & Emerging Technologies
-│   ├── troubleshooting.md     # Common IT Issues & Fixes
-```
-
-## Contributing
-This project is open to contributions! Share scripts, write guides, or suggest improvements to help others learn and grow.
-
-## Stay Connected
-Follow this repository for updates, and feel free to open issues or discussions to ask questions and share ideas!  
-
-**Let's make IT accessible, inspiring, and practical for everyone!**
-
+│   ├── troubleshooting.md    # Common IT Issues & Fixes
+****
