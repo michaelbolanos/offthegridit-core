@@ -61,9 +61,3 @@ Coming Soon
 │   ├── troubleshooting.md    # Common IT Issues & Fixes
 
 
-
-This README maintains the original repository structure and adds a "📄 Detailed Resources" section with a table that includes clickable resource names, descriptions, and direct links to the corresponding `.md` files for easy navigation.
-::contentReference[oaicite:0]{index=0}
- 
-
-
