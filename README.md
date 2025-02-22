@@ -19,7 +19,7 @@ Welcome to offthegridit's public IT resources. We offer easy-to-understand guide
 
 ## 👵👴 Resources for Seniors
 
-We know technology can be challenging. Our [Senior Tech Tips](#senior-tech-tips) provide simple guides to help you navigate the digital world.
+We know technology can be challenging. Our [Senior Tech Tips](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/senior-tech-tips.md) provide simple guides to help you navigate the digital world.
 
 ---
 
@@ -36,14 +36,41 @@ We know technology can be challenging. Our [Senior Tech Tips](#senior-tech-tips)
 
 ---
 
-
 ## 🛠 Installation & Usage
-Coming Soon  
+Coming Soon
 
 ## 🎬 Demo Video
-[![Watch the video](https://img.youtube.com/vi/reAXSyYBFM4/maxresdefault.jpg)](https://www.youtube.com/watch?v=reAXSyYBFM4)  
+[![Watch the video](https://img.youtube.com/vi/reAXSyYBFM4/maxresdefault.jpg)](https://www.youtube.com/watch?v=reAXSyYBFM4)
 
 ---
+
+
+## 📂 Repo
+Here are the links
+
+# Offthegridit Public IT Resources
+
+## Documentation Index
+
+| Section         | Description                                      | Link |
+|----------------|--------------------------------------------------|------|
+| Windows        | Windows-specific guides                         | [windows](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/windows.md) |
+| Mac           | macOS-specific guides                            | [mac](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/mac.md) |
+| Linux         | Linux-specific guides                            | [linux](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/linux.md) |
+| IT Support    | IT Support Basics                                | [it-support](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/it-support.md) |
+| Cybersecurity | Security Best Practices                          | [cybersecurity](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/cybersecurity.md) |
+| Automation    | Scripts & Automation                             | [automation](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/automation.md) |
+| Smart Home    | Home Automation & HA Setup                      | [smart-home](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/smart-home.md) |
+| Senior Tips   | IT Tips for Seniors                             | [senior-tech-tips](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/senior-tech-tips.md) |
+| Future Tech   | Current Trends & Emerging Technologies         | [future-tech](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/future-tech.md) |
+| Troubleshooting | Common IT Issues & Fixes                      | [troubleshooting](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/troubleshooting.md) |
+
+Click on any section to access the relevant documentation. 🚀
+
+
+---
+
+
 
 ## 📂 Repository Structure
 ```bash
@@ -59,14 +86,10 @@ Coming Soon
 │   ├── smart-home.md         # Home Automation & HA Setup
 │   ├── senior-tech-tips.md   # IT Tips for Seniors
 │   ├── future-tech.md        # Current Trends & Emerging Technologies
-│   ├── troubleshooting.md     # Common IT Issues & Fixes
-```
+│   ├── troubleshooting.md    # Common IT Issues & Fixes
 
-## Contributing
-This project is open to contributions! Share scripts, write guides, or suggest improvements to help others learn and grow.
 
-## Stay Connected
-Follow this repository for updates, and feel free to open issues or discussions to ask questions and share ideas!  
 
-**Let's make IT accessible, inspiring, and practical for everyone!**
+---
+
 
