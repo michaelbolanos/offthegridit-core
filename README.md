@@ -85,3 +85,7 @@ Here are the links
 | Troubleshooting | Common IT Issues & Fixes                      | [troubleshooting](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/troubleshooting.md) |
 
 Click on any section to access the relevant documentation. 🚀
+
+
+---
+
