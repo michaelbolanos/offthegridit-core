@@ -1,3 +1,5 @@
+<img src="https://offthegridit.com/wp-content/uploads/2023/01/owl-off-the-grid-natures-camaflouge.png" alt="Owl Image" width="42">
+
 # **Senior Tech Tips**
 
 **Technology Made Simple for Seniors**
@@ -57,5 +59,3 @@ Stay connected with loved ones by:
 - **Setting Up Video Calling Devices:** Consider using devices like Amazon Echo Show, which allow for easy video calls and can be configured to auto-answer, making it simpler to connect with family and friends.
 
 Embrace these tech tips to enhance your digital journey, stay connected, and navigate the online world with confidence.
-
-
