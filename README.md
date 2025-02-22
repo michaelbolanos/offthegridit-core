@@ -63,3 +63,25 @@ Coming Soon
 
 ---
 
+
+## 📂 Repo
+Here are the links
+
+# Offthegridit Public IT Resources
+
+## Documentation Index
+
+| Section         | Description                                      | Link |
+|----------------|--------------------------------------------------|------|
+| Windows        | Windows-specific guides                         | [windows](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/windows.md) |
+| Mac           | macOS-specific guides                            | [mac](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/mac.md) |
+| Linux         | Linux-specific guides                            | [linux](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/linux.md) |
+| IT Support    | IT Support Basics                                | [it-support](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/it-support.md) |
+| Cybersecurity | Security Best Practices                          | [cybersecurity](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/cybersecurity.md) |
+| Automation    | Scripts & Automation                             | [automation](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/automation.md) |
+| Smart Home    | Home Automation & HA Setup                      | [smart-home](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/smart-home.md) |
+| Senior Tips   | IT Tips for Seniors                             | [senior-tech-tips](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/senior-tech-tips.md) |
+| Future Tech   | Current Trends & Emerging Technologies         | [future-tech](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/future-tech.md) |
+| Troubleshooting | Common IT Issues & Fixes                      | [troubleshooting](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/troubleshooting.md) |
+
+Click on any section to access the relevant documentation. 🚀
