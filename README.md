@@ -19,7 +19,7 @@ Welcome to offthegridit's public IT resources. We offer easy-to-understand guide
 
 ## 👵👴 Resources for Seniors
 
-We know technology can be challenging. Our [Senior Tech Tips](https://github.com/michaelbolanos/offthegridit-core/blob/main/docs/senior-tech-tips.md) provide simple guides to help you navigate the digital world.
+We know technology can be challenging. Our [Senior Tech Tips](docs/senior-tech-tips.md) provide simple guides to help you navigate the digital world.
 
 ---
 
@@ -44,7 +44,6 @@ Coming Soon
 
 ---
 
-
 ## 📂 Repo
 Here are the links
 
@@ -54,23 +53,20 @@ Here are the links
 
 | Section         | Description                                      | Link |
 |----------------|--------------------------------------------------|------|
-| Windows        | Windows-specific guides                         | [windows](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/windows.md) |
-| Mac           | macOS-specific guides                            | [mac](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/mac.md) |
-| Linux         | Linux-specific guides                            | [linux](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/linux.md) |
-| IT Support    | IT Support Basics                                | [it-support](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/it-support.md) |
-| Cybersecurity | Security Best Practices                          | [cybersecurity](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/cybersecurity.md) |
-| Automation    | Scripts & Automation                             | [automation](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/automation.md) |
-| Smart Home    | Home Automation & HA Setup                      | [smart-home](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/smart-home.md) |
-| Senior Tips   | IT Tips for Seniors                             | [senior-tech-tips](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/senior-tech-tips.md) |
-| Future Tech   | Current Trends & Emerging Technologies         | [future-tech](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/future-tech.md) |
-| Troubleshooting | Common IT Issues & Fixes                      | [troubleshooting](https://github.com/michaelbolanos/offthegridit-public-it-resources/blob/main/docs/troubleshooting.md) |
+| Windows        | Windows-specific guides                         | [windows](docs/windows.md) |
+| Mac           | macOS-specific guides                            | [mac](docs/mac.md) |
+| Linux         | Linux-specific guides                            | [linux](docs/linux.md) |
+| IT Support    | IT Support Basics                                | [it-support](docs/it-support.md) |
+| Cybersecurity | Security Best Practices                          | [cybersecurity](docs/cybersecurity.md) |
+| Automation    | Scripts & Automation                             | [automation](docs/automation.md) |
+| Smart Home    | Home Automation & HA Setup                      | [smart-home](docs/smart-home.md) |
+| Senior Tips   | IT Tips for Seniors                             | [senior-tech-tips](docs/senior-tech-tips.md) |
+| Future Tech   | Current Trends & Emerging Technologies         | [future-tech](docs/future-tech.md) |
+| Troubleshooting | Common IT Issues & Fixes                      | [troubleshooting](docs/troubleshooting.md) |
 
 Click on any section to access the relevant documentation. 🚀
 
-
 ---
-
-
 
 ## 📂 Repository Structure
 ```bash
@@ -87,9 +83,3 @@ Click on any section to access the relevant documentation. 🚀
 │   ├── senior-tech-tips.md   # IT Tips for Seniors
 │   ├── future-tech.md        # Current Trends & Emerging Technologies
 │   ├── troubleshooting.md    # Common IT Issues & Fixes
-
-
-
----
-
-
