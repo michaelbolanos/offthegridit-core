@@ -36,6 +36,37 @@ We know technology can be challenging. Our [Senior Tech Tips](#senior-tech-tips)
 
 ---
 
-## 🛠 Getting Started
 
-Our resources are for everyone, whether you're new to tech or have some e
+## 🛠 Installation & Usage
+Coming Soon  
+
+## 🎬 Demo Video
+[![Watch the video](https://img.youtube.com/vi/reAXSyYBFM4/maxresdefault.jpg)](https://www.youtube.com/watch?v=reAXSyYBFM4)  
+
+---
+
+## 📂 Repository Structure
+```bash
+/offthegridit-public-it-resources
+│── README.md                 # Main Overview
+│── docs/
+│   ├── windows.md            # Windows-specific guides
+│   ├── mac.md                # macOS-specific guides
+│   ├── linux.md              # Linux-specific guides
+│   ├── it-support.md         # IT Support Basics
+│   ├── cybersecurity.md      # Security Best Practices
+│   ├── automation.md         # Scripts & Automation
+│   ├── smart-home.md         # Home Automation & HA Setup
+│   ├── senior-tech-tips.md   # IT Tips for Seniors
+│   ├── future-tech.md        # Current Trends & Emerging Technologies
+│   ├── troubleshooting.md     # Common IT Issues & Fixes
+```
+
+## Contributing
+This project is open to contributions! Share scripts, write guides, or suggest improvements to help others learn and grow.
+
+## Stay Connected
+Follow this repository for updates, and feel free to open issues or discussions to ask questions and share ideas!  
+
+**Let's make IT accessible, inspiring, and practical for everyone!**
+
