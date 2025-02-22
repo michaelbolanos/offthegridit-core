@@ -2,6 +2,8 @@
 
 **Technology Made Simple for Seniors**
 
+![Seniors using technology](https://www.freepik.com/free-vector/seniors-using-technology-flat-hand-drawn-s_12286467.htm)
+
 Empower yourself with these easy-to-follow guides:
 
 - **Using Smartphones and Tablets**
@@ -12,6 +14,8 @@ Empower yourself with these easy-to-follow guides:
 
 ## **1. Managing and Remembering Passwords**
 
+![Elderly man using technology](https://www.alamy.com/positive-aging-concept-elderly-man-embracing-technology-with-health-monitoring-smartwatch-web-interface-design-for-senior-friendly-technology-vector-illustration-image615538748.html)
+
 In today's digital world, keeping track of numerous passwords can be challenging. Simplify this task by:
 
 - **Using Password Managers:** Applications like 1Password or Bitwarden securely store all your login details, so you only need to remember one master password.
@@ -19,6 +23,8 @@ In today's digital world, keeping track of numerous passwords can be challenging
 - **Enabling Two-Step Verification:** This adds an extra layer of security by requiring a second form of verification, such as a code sent to your phone.
 
 ## **2. Keeping Track of Appointments and To-Dos**
+
+![Seniors with laptop](https://www.dreamstime.com/set-modern-seniors-laptop-internet-technologies-elderly-people-vector-illustration-flat-style-image232954824)
 
 Stay organized and never miss an important date by:
 
@@ -28,6 +34,8 @@ Stay organized and never miss an important date by:
 
 ## **3. Enhancing Device Accessibility**
 
+![Seniors using technology](https://www.freepik.com/free-vector/flat-hand-drawn-seniors-using-technology-illustration_12150980.htm)
+
 Make your devices more user-friendly by:
 
 - **Adjusting Text Size and Display Settings:** Increase font size and enable high-contrast modes to improve readability.
@@ -35,6 +43,8 @@ Make your devices more user-friendly by:
 - **Exploring Voice Command Features:** Use voice assistants to open apps, send messages, or search the internet without typing.
 
 ## **4. Ensuring Online Safety**
+
+![Senior-friendly tech](https://smpltec.com/senior-friendly-tech-making-technology-accessible-and-fun-with-smpl/)
 
 Protect yourself from online threats by:
 
@@ -44,6 +54,8 @@ Protect yourself from online threats by:
 
 ## **5. Learning and Support Resources**
 
+![Seniors using technology](https://www.freepik.com/free-vector/hand-drawn-seniors-using-technology-illustration_12155860.htm)
+
 Expand your tech knowledge through:
 
 - **Participating in Community Tech Classes:** Many libraries and senior centers offer free tutorials tailored for older adults.
@@ -51,6 +63,8 @@ Expand your tech knowledge through:
 - **Accessing Online Guides:** Organizations like DOROT provide step-by-step instructions on various tech topics.
 
 ## **6. Utilizing Technology for Social Connection**
+
+![Seniors using technology](https://www.freepik.com/free-vector/hand-drawn-seniors-using-technology_12276724.htm)
 
 Stay connected with loved ones by:
 
