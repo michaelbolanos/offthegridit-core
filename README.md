@@ -1,6 +1,6 @@
 # 🌟 offthegridit Public IT Resources
 
-![offthegridit logo](https://offthegridit.com/wp-content/uploads/2024/05/offthergridit-logo-tree1.jpg)
+<img src="https://offthegridit.com/wp-content/uploads/2024/05/offthergridit-logo-tree1.jpg" alt="offthegridit logo" width="63">
 
 **Empowering IT Learning & Support**
 
