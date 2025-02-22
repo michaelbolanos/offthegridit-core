@@ -51,18 +51,18 @@ Here are the links
 
 ## Documentation Index
 
-| Section         | Description                                      | Link |
-|----------------|--------------------------------------------------|------|
-| Windows        | Windows-specific guides                         | [windows](docs/windows.md) |
-| Mac           | macOS-specific guides                            | [mac](docs/mac.md) |
-| Linux         | Linux-specific guides                            | [linux](docs/linux.md) |
-| IT Support    | IT Support Basics                                | [it-support](docs/it-support.md) |
-| Cybersecurity | Security Best Practices                          | [cybersecurity](docs/cybersecurity.md) |
-| Automation    | Scripts & Automation                             | [automation](docs/automation.md) |
-| Smart Home    | Home Automation & HA Setup                      | [smart-home](docs/smart-home.md) |
-| Senior Tips   | IT Tips for Seniors                             | [senior-tech-tips](docs/senior-tech-tips.md) |
-| Future Tech   | Current Trends & Emerging Technologies         | [future-tech](docs/future-tech.md) |
-| Troubleshooting | Common IT Issues & Fixes                      | [troubleshooting](docs/troubleshooting.md) |
+| Section                                                                 | Description                                      |
+|-------------------------------------------------------------------------|--------------------------------------------------|
+| [Windows](docs/windows.md)                                              | Windows-specific guides                          |
+| [Mac](docs/mac.md)                                                      | macOS-specific guides                            |
+| [Linux](docs/linux.md)                                                  | Linux-specific guides                            |
+| [IT Support](docs/it-support.md)                                        | IT Support Basics                                |
+| [Cybersecurity](docs/cybersecurity.md)                                  | Security Best Practices                          |
+| [Automation](docs/automation.md)                                        | Scripts & Automation                             |
+| [Smart Home](docs/smart-home.md)                                        | Home Automation & HA Setup                       |
+| [Senior Tips](docs/senior-tech-tips.md)                                 | IT Tips for Seniors                              |
+| [Future Tech](docs/future-tech.md)                                      | Current Trends & Emerging Technologies           |
+| [Troubleshooting](docs/troubleshooting.md)                              | Common IT Issues & Fixes                         |
 
 Click on any section to access the relevant documentation. 🚀
 
