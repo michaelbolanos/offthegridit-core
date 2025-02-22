@@ -61,3 +61,19 @@ Coming Soon
 │   ├── troubleshooting.md    # Common IT Issues & Fixes
 
 
+
+## Docs
+## 📂 Documentation Links
+
+| Name           | Description                          | Link |
+|--------------|----------------------------------|------|
+| Windows      | Windows-specific guides         | [windows.md](docs/windows.md) |
+| Mac         | macOS-specific guides            | [mac.md](docs/mac.md) |
+| Linux       | Linux-specific guides            | [linux.md](docs/linux.md) |
+| IT Support  | IT Support Basics                | [it-support.md](docs/it-support.md) |
+| Cybersecurity | Security Best Practices        | [cybersecurity.md](docs/cybersecurity.md) |
+| Automation  | Scripts & Automation             | [automation.md](docs/automation.md) |
+| Smart Home  | Home Automation & HA Setup       | [smart-home.md](docs/smart-home.md) |
+| Seniors     | IT Tips for Seniors              | [senior-tech-tips.md](docs/senior-tech-tips.md) |
+| Future Tech | Current Trends & Emerging Technologies | [future-tech.md](docs/future-tech.md) |
+| Troubleshooting | Common IT Issues & Fixes     | [troubleshooting.md](docs/troubleshooting.md) |
