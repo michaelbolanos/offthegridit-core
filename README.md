@@ -60,3 +60,10 @@ Coming Soon
 │   ├── future-tech.md        # Current Trends & Emerging Technologies
 │   ├── troubleshooting.md    # Common IT Issues & Fixes
 
+
+
+## 🛠 Installation & Usage
+Coming Soon
+
+## 🎬 Demo Video
+[![Watch the video](https://img.youtube.com/vi/reAXSyYBFM4/maxresdefault.jpg)](https://www.youtube.com/watch?v=reAXSyYBFM4)
