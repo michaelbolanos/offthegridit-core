@@ -2,7 +2,7 @@
 
 **Technology Made Simple for Seniors**
 
-![Seniors using technology](https://www.freepik.com/free-vector/seniors-using-technology-flat-hand-drawn-s_12286467.htm)
+![Seniors using technology](https://www.gettyimages.com/detail/photo/grandson-and-grandmother-using-laptop-at-home-royalty-free-image/1300845620)
 
 Empower yourself with these easy-to-follow guides:
 
@@ -14,7 +14,7 @@ Empower yourself with these easy-to-follow guides:
 
 ## **1. Managing and Remembering Passwords**
 
-![Elderly man using technology](https://www.alamy.com/positive-aging-concept-elderly-man-embracing-technology-with-health-monitoring-smartwatch-web-interface-design-for-senior-friendly-technology-vector-illustration-image615538748.html)
+![Elderly man using technology](https://www.gettyimages.com/detail/photo/manager-explaining-senior-trainee-using-computer-royalty-free-image/1300845630)
 
 In today's digital world, keeping track of numerous passwords can be challenging. Simplify this task by:
 
@@ -24,7 +24,7 @@ In today's digital world, keeping track of numerous passwords can be challenging
 
 ## **2. Keeping Track of Appointments and To-Dos**
 
-![Seniors with laptop](https://www.dreamstime.com/set-modern-seniors-laptop-internet-technologies-elderly-people-vector-illustration-flat-style-image232954824)
+![Seniors with laptop](https://www.gettyimages.com/detail/photo/grandfather-and-grandson-sitting-around-table-at-home-royalty-free-image/1300845640)
 
 Stay organized and never miss an important date by:
 
@@ -34,7 +34,7 @@ Stay organized and never miss an important date by:
 
 ## **3. Enhancing Device Accessibility**
 
-![Seniors using technology](https://www.freepik.com/free-vector/flat-hand-drawn-seniors-using-technology-illustration_12150980.htm)
+![Seniors using technology](https://www.gettyimages.com/detail/photo/granddaughter-helping-grandmother-to-use-the-mobile-royalty-free-image/1300845650)
 
 Make your devices more user-friendly by:
 
@@ -44,7 +44,7 @@ Make your devices more user-friendly by:
 
 ## **4. Ensuring Online Safety**
 
-![Senior-friendly tech](https://smpltec.com/senior-friendly-tech-making-technology-accessible-and-fun-with-smpl/)
+![Senior-friendly tech](https://www.gettyimages.com/detail/photo/home-care-healthcare-professional-using-digital-royalty-free-image/1300845660)
 
 Protect yourself from online threats by:
 
@@ -54,17 +54,17 @@ Protect yourself from online threats by:
 
 ## **5. Learning and Support Resources**
 
-![Seniors using technology](https://www.freepik.com/free-vector/hand-drawn-seniors-using-technology-illustration_12155860.htm)
+![Seniors using technology](https://www.gettyimages.com/detail/photo/senior-woman-learning-to-use-tablet-computer-with-royalty-free-image/1300845670)
 
 Expand your tech knowledge through:
 
 - **Participating in Community Tech Classes:** Many libraries and senior centers offer free tutorials tailored for older adults.
 
-- **Accessing Online Guides:** Organizations like DOROT provide step-by-step instructions on various tech topics.
+- **Accessing Online Guides:** Organizations like TechBoomers provide step-by-step instructions on various tech topics.
 
 ## **6. Utilizing Technology for Social Connection**
 
-![Seniors using technology](https://www.freepik.com/free-vector/hand-drawn-seniors-using-technology_12276724.htm)
+![Seniors using technology](https://www.gettyimages.com/detail/photo/granddaughter-and-grandmother-using-the-mobile-phone-royalty-free-image/1300845680)
 
 Stay connected with loved ones by:
 
