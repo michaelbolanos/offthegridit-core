@@ -44,25 +44,6 @@ Coming Soon
 
 ---
 
-## 📂 Repository Structure
-```bash
-/offthegridit-public-it-resources
-│── README.md                 # Main Overview
-│── docs/
-│   ├── windows.md            # Windows-specific guides
-│   ├── mac.md                # macOS-specific guides
-│   ├── linux.md              # Linux-specific guides
-│   ├── it-support.md         # IT Support Basics
-│   ├── cybersecurity.md      # Security Best Practices
-│   ├── automation.md         # Scripts & Automation
-│   ├── smart-home.md         # Home Automation & HA Setup
-│   ├── senior-tech-tips.md   # IT Tips for Seniors
-│   ├── future-tech.md        # Current Trends & Emerging Technologies
-│   ├── troubleshooting.md    # Common IT Issues & Fixes
-
-
----
-
 
 ## 📂 Repo
 Here are the links
@@ -88,4 +69,27 @@ Click on any section to access the relevant documentation. 🚀
 
 
 ---
+
+
+
+## 📂 Repository Structure
+```bash
+/offthegridit-public-it-resources
+│── README.md                 # Main Overview
+│── docs/
+│   ├── windows.md            # Windows-specific guides
+│   ├── mac.md                # macOS-specific guides
+│   ├── linux.md              # Linux-specific guides
+│   ├── it-support.md         # IT Support Basics
+│   ├── cybersecurity.md      # Security Best Practices
+│   ├── automation.md         # Scripts & Automation
+│   ├── smart-home.md         # Home Automation & HA Setup
+│   ├── senior-tech-tips.md   # IT Tips for Seniors
+│   ├── future-tech.md        # Current Trends & Emerging Technologies
+│   ├── troubleshooting.md    # Common IT Issues & Fixes
+
+
+
+---
+
 
