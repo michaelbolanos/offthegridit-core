@@ -1,6 +1,12 @@
-## ⚡ Executable Index (Run Scripts & Binaries Remotely)
+# ⚡ Executable Index (Run Scripts & Binaries Remotely)
 
-This section allows you to execute scripts, binaries, and commands from remote locations using `curl`, `Invoke-WebRequest`, or `wget`. This makes it easier to deploy tools or automate tasks.
+This section allows you to execute scripts, binaries, and commands from remote locations using `curl`, `Invoke-WebRequest`, or `wget`. This simplifies deployment and automation of tasks across different operating systems.
+
+---
+
+## 🖥️ Windows | 🐧 Linux | 🍏 macOS
+
+Easily run scripts and executables with the following commands:
 
 ### 🔹 Windows PowerShell Execution
 Run a PowerShell script directly from our repository:
@@ -28,20 +34,23 @@ For macOS-specific installations:
 curl -sSL https://raw.githubusercontent.com/michaelbolanos/offthegridit-core/main/scripts/mac/setup.sh | bash
 ```
 
-### 🔹 Download and Execute Binary
-#### **Windows Binary Execution**
+---
+
+## 📂 Download and Execute Binaries
+
+### 🖥️ **Windows Binary Execution**
 ```powershell
 Start-Process -FilePath "https://raw.githubusercontent.com/michaelbolanos/offthegridit-core/main/bin/windows/tool.exe"
 ```
 
-#### **Linux Binary Execution**
+### 🐧 **Linux Binary Execution**
 ```bash
 wget -O /usr/local/bin/tool https://raw.githubusercontent.com/michaelbolanos/offthegridit-core/main/bin/linux/tool
 chmod +x /usr/local/bin/tool
 /usr/local/bin/tool
 ```
 
-#### **macOS Binary Execution**
+### 🍏 **macOS Binary Execution**
 ```bash
 curl -o /usr/local/bin/tool https://raw.githubusercontent.com/michaelbolanos/offthegridit-core/main/bin/mac/tool
 chmod +x /usr/local/bin/tool
@@ -49,3 +58,9 @@ chmod +x /usr/local/bin/tool
 ```
 
 ---
+
+## 🔗 References & Additional Resources
+- 📜 [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
+- 🐧 [Linux Shell Scripting Guide](https://linuxcommand.org/tlcl.php)
+- 🍏 [macOS Terminal User Guide](https://support.apple.com/guide/terminal/welcome/mac)
+- 🚀 [GitHub Repository](https://github.com/michaelbolanos/offthegridit-core)
