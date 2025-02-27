@@ -56,44 +56,44 @@ This section allows you to execute scripts, binaries, and commands from remote l
 Run a PowerShell script directly from our repository:
 
 ```powershell
-iex (New-Object Net.WebClient).DownloadString('https://offthegridit.com/scripts/windows/setup.ps1')
+iex (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/michaelbolanos/offthegridit-core/main/scripts/windows/setup.ps1')
 ```
 
 Alternative (Using `Invoke-WebRequest`):
 
 ```powershell
-Invoke-Expression (Invoke-WebRequest -Uri "https://offthegridit.com/scripts/windows/setup.ps1" -UseBasicParsing).Content
+Invoke-Expression (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/michaelbolanos/offthegridit-core/main/scripts/windows/setup.ps1" -UseBasicParsing).Content
 ```
 
 ### 🔹 Linux & macOS Shell Execution
 Run a shell script directly from our repository:
 
 ```bash
-curl -sSL https://offthegridit.com/scripts/linux/setup.sh | bash
+curl -sSL https://raw.githubusercontent.com/michaelbolanos/offthegridit-core/main/scripts/linux/setup.sh | bash
 ```
 
 For macOS-specific installations:
 
 ```bash
-curl -sSL https://offthegridit.com/scripts/mac/setup.sh | bash
+curl -sSL https://raw.githubusercontent.com/michaelbolanos/offthegridit-core/main/scripts/mac/setup.sh | bash
 ```
 
 ### 🔹 Download and Execute Binary
 #### **Windows Binary Execution**
 ```powershell
-Start-Process -FilePath "https://offthegridit.com/bin/windows/tool.exe"
+Start-Process -FilePath "https://raw.githubusercontent.com/michaelbolanos/offthegridit-core/main/bin/windows/tool.exe"
 ```
 
 #### **Linux Binary Execution**
 ```bash
-wget -O /usr/local/bin/tool https://offthegridit.com/bin/linux/tool
+wget -O /usr/local/bin/tool https://raw.githubusercontent.com/michaelbolanos/offthegridit-core/main/bin/linux/tool
 chmod +x /usr/local/bin/tool
 /usr/local/bin/tool
 ```
 
 #### **macOS Binary Execution**
 ```bash
-curl -o /usr/local/bin/tool https://offthegridit.com/bin/mac/tool
+curl -o /usr/local/bin/tool https://raw.githubusercontent.com/michaelbolanos/offthegridit-core/main/bin/mac/tool
 chmod +x /usr/local/bin/tool
 /usr/local/bin/tool
 ```
