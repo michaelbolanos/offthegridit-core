@@ -38,7 +38,6 @@ We know technology can be challenging. Our [Senior Tech Tips](docs/senior-tech-t
 
 ## 🛠 Installation & Usage
 
-Coming Soon
 
 For detailed steps on running scripts and executables, see [How to Run](docs/how-to-run.md).
 
