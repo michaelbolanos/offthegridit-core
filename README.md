@@ -6,7 +6,7 @@
 
 **Empowering IT Learning & Support**
 
-Welcome to offthegridit's public IT resources. We offer easy-to-understand guides and tools for:
+Welcome to **offthegridit's** public IT resources. We offer easy-to-understand guides and tools for:
 
 - Aspiring IT Professionals
 - STEM Enthusiasts
@@ -37,10 +37,66 @@ We know technology can be challenging. Our [Senior Tech Tips](docs/senior-tech-t
 ---
 
 ## 🛠 Installation & Usage
+
 Coming Soon
 
-## 🎬 Demo Video
+---
+
+## 🎮 Demo Video
+
 [![Watch the video](https://img.youtube.com/vi/reAXSyYBFM4/maxresdefault.jpg)](https://www.youtube.com/watch?v=reAXSyYBFM4)
+
+---
+
+## ⚡ Executable Index (Run Scripts & Binaries Remotely)
+
+This section allows you to execute scripts, binaries, and commands from remote locations using `curl`, `Invoke-WebRequest`, or `wget`. This makes it easier to deploy tools or automate tasks.
+
+### 🔹 Windows PowerShell Execution
+Run a PowerShell script directly from our repository:
+
+```powershell
+iex (New-Object Net.WebClient).DownloadString('https://offthegridit.com/scripts/windows/setup.ps1')
+```
+
+Alternative (Using `Invoke-WebRequest`):
+
+```powershell
+Invoke-Expression (Invoke-WebRequest -Uri "https://offthegridit.com/scripts/windows/setup.ps1" -UseBasicParsing).Content
+```
+
+### 🔹 Linux & macOS Shell Execution
+Run a shell script directly from our repository:
+
+```bash
+curl -sSL https://offthegridit.com/scripts/linux/setup.sh | bash
+```
+
+For macOS-specific installations:
+
+```bash
+curl -sSL https://offthegridit.com/scripts/mac/setup.sh | bash
+```
+
+### 🔹 Download and Execute Binary
+#### **Windows Binary Execution**
+```powershell
+Start-Process -FilePath "https://offthegridit.com/bin/windows/tool.exe"
+```
+
+#### **Linux Binary Execution**
+```bash
+wget -O /usr/local/bin/tool https://offthegridit.com/bin/linux/tool
+chmod +x /usr/local/bin/tool
+/usr/local/bin/tool
+```
+
+#### **macOS Binary Execution**
+```bash
+curl -o /usr/local/bin/tool https://offthegridit.com/bin/mac/tool
+chmod +x /usr/local/bin/tool
+/usr/local/bin/tool
+```
 
 ---
 
