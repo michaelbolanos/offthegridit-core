@@ -44,12 +44,7 @@ Coming Soon
 
 ---
 
-## 📂 Repo
-Here are the links
-
-# offthegridit Public IT Resources
-
-## Documentation Index
+## 📂 Documentation Index
 
 | Section                                                                 | Description                                      |
 |-------------------------------------------------------------------------|--------------------------------------------------|
@@ -69,17 +64,33 @@ Click on any section to access the relevant documentation. 🚀
 ---
 
 ## 📂 Repository Structure
+
 ```bash
 /offthegridit-public-it-resources
 │── README.md                 # Main Overview
-│── docs/
+│── docs/                     # Documentation & Guides
 │   ├── windows.md            # Windows-specific guides
 │   ├── mac.md                # macOS-specific guides
 │   ├── linux.md              # Linux-specific guides
 │   ├── it-support.md         # IT Support Basics
 │   ├── cybersecurity.md      # Security Best Practices
-│   ├── automation.md         # Scripts & Automation
+│   ├── automation.md         # Scripts & Automation Guides
 │   ├── smart-home.md         # Home Automation & HA Setup
 │   ├── senior-tech-tips.md   # IT Tips for Seniors
 │   ├── future-tech.md        # Current Trends & Emerging Technologies
 │   ├── troubleshooting.md    # Common IT Issues & Fixes
+│── scripts/                   # Automation & IT scripts
+│   ├── linux/                # Linux scripts
+│   ├── mac/                  # macOS scripts
+│   ├── windows/              # Windows scripts
+│── bin/                      # Compiled binaries & tools
+│   ├── linux/                # Linux binaries
+│   ├── mac/                  # macOS binaries
+│   ├── windows/              # Windows executables
+│── images/                   # Logos, screenshots, diagrams
+│── videos/                   # Video content & demos
+│── files/                    # Miscellaneous (PDFs, config files, templates)
+│── .github/                   # GitHub-related configurations (actions, workflows)
+│── LICENSE                    # License for open-source compliance
+│── CONTRIBUTING.md            # Contribution guidelines
+│── CHANGELOG.md               # Release notes and changes
