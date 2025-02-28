@@ -1,0 +1,48 @@
+name: Security Scans
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: '0 0 * * 1' # Runs weekly on Monday
+
+jobs:
+  security_scan:
+    name: Run Security Scans
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Run CodeQL Analysis
+        uses: github/codeql-action/init@v2
+        with:
+          languages: 'python, javascript, go' # Modify based on your repo's languages
+
+      - name: Perform CodeQL Scan
+        uses: github/codeql-action/analyze@v2
+
+      - name: Run Trivy Vulnerability Scanner
+        uses: aquasecurity/trivy-action@master
+        with:
+          scan-type: 'fs'
+          scan-ref: '.'
+
+      - name: Run Gitleaks Secret Scan
+        uses: gitleaks/gitleaks-action@v2
+        with:
+          config-path: "gitleaks.toml"
+          fail: true
+
+      - name: Run Bandit Security Scan (Python only)
+        run: |
+          pip install bandit
+          bandit -r . || true
+
+      - name: Run npm audit (JavaScript only)
+        run: |
+          npm install
+          npm audit --audit-level=high || true
