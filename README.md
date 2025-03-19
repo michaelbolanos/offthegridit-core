@@ -17,13 +17,7 @@ Welcome to **offthegridit's** public IT resources.  Easy-to-understand guides an
 
 ---
 
-## 👵👴 Resources for Seniors
-
-We know technology can be challenging. Our [Senior Tech Tips](docs/senior-tech-tips.md) provide simple guides to help you navigate the digital world.
-
----
-
-## 📚 What We Offer
+## 📚 What
 
 - **IT Basics & Tutorials**: Learn about system administration, networking, and security.
 - **Scripts & Automation**: Tools to make your tech tasks easier.
@@ -36,16 +30,10 @@ We know technology can be challenging. Our [Senior Tech Tips](docs/senior-tech-t
 
 ---
 
-## 🛠 Installation & Usage
+## 🛠 How - Installation & Usage
 
 
 For detailed steps on running scripts and executables, see [How to Run](docs/how-to-run.md).
-
----
-
-## 🎮 Demo Video
-
-[![Watch the video](https://img.youtube.com/vi/reAXSyYBFM4/maxresdefault.jpg)](https://www.youtube.com/watch?v=reAXSyYBFM4)
 
 ---
 
