@@ -6,7 +6,7 @@
 
 **Empowering IT Learning & Support**
 
-Welcome to **offthegridit's** public IT resources. We offer easy-to-understand guides and tools for:
+Welcome to **offthegridit's** public IT resources.  Easy-to-understand guides and tools for:
 
 - Aspiring IT Professionals
 - STEM Enthusiasts
