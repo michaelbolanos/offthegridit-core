@@ -6,12 +6,12 @@
 
 **Empowering IT Learning & Support**
 
-Welcome to **offthegridit's** public IT resources.  Easy-to-understand guides and tools for:
+Welcome to **offthegridit** resources.  Guides and tools for:
 
-- Aspiring IT Professionals
+- IT Professionals
 - STEM Enthusiasts
 - Seniors
-- General Users
+- General Computer Users
 - Managed Service Providers (MSP)
 - IT Support Customers
 
@@ -52,7 +52,7 @@ For detailed steps on running scripts and executables, see [How to Run](docs/how
 | [Future Tech](docs/future-tech.md) | Current Trends & Emerging Technologies  | [GitHub](https://github.com/michaelbolanos/offthegridit-core/tree/main/docs/future-tech) | Dynamic |
 | [Troubleshooting](docs/troubleshooting.md) | Common IT Issues & Fixes         | [GitHub](https://github.com/michaelbolanos/offthegridit-core/tree/main/docs/troubleshooting) | Dynamic |
 
-Click on any section to access the relevant documentation. 🚀
+Click on any section to access the relevant documentation. 
 
 ---
 
