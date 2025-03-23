@@ -1,5 +1,7 @@
 #!/bin/bash
 
+
+# Michael Bolanos 03-23-25
 # macOS System Cleanup Script
 # Description: Clears system caches, updates Homebrew packages, and optimizes performance.
 

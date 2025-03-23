@@ -4,16 +4,14 @@
   <img src="https://offthegridit.com/wp-content/uploads/2024/05/offthergridit-logo-tree1.jpg" alt="offthegridit logo" width="63">
 </p>
 
-**Empowering IT Learning & Support**
+**IT Learning & Support**
 
-Welcome to **offthegridit** resources.  Guides and tools for:
+Welcome to Guides and tools for:
 
 - IT Professionals
 - STEM Enthusiasts
 - Seniors
 - General Computer Users
-- Managed Service Providers (MSP)
-- IT Support Customers
 
 ---
 
