@@ -13,6 +13,8 @@ Welcome to Guides and tools for:
 - Seniors
 - General Computer Users
 
+- This project is still WIP (work in progress)
+
 ---
 
 ## 📚 What
