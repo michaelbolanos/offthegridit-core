@@ -1,6 +1,6 @@
 # 🍏 macOS IT Resources
 
-Welcome to the **macOS IT Resources** section of **offthegridit**! Here, you'll find essential guides, scripts, and automation tools tailored for macOS users, IT professionals, and MSPs.
+Welcome to the **macOS IT Resources** section of my Github.  Here, you'll find guides, scripts, and automation tools tailored for macOS users, IT professionals.
 
 ---
 
