@@ -58,6 +58,6 @@ Expand your tech knowledge through:
 
 Stay connected with loved ones by:
 
-- **Setting Up Video Calling Devices:** Consider using devices like Amazon Echo Show, which allow for easy video calls and can be configured to auto-answer, making it simpler to connect with family and friends.
+- **Setting Up Video Calling Devices:** Consider using video calling devices, which allow for easy video calls and can be configured to auto-answer, making it simpler to connect with family and friends.
 
-Embrace these tech tips to enhance your digital journey, stay connected, and navigate the online world with confidence.
+Embrace these tech tips to stay connected and navigate the online world with confidence.
